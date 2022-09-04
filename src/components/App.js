@@ -10,6 +10,7 @@ function App() {
     3: { id: 3, title: "Inception" },
   });
 
+
   return (
     <div>
       <NavBar />
